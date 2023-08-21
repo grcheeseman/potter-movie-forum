@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/potter-movie-forum/precache-manifest.58d9a3a221746c859707cb06d9c40306.js"
+  "/potter-movie-forum/precache-manifest.4c96c5c88fe152d26eade4358983654b.js"
 );
 
 workbox.clientsClaim();

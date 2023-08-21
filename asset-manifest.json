@@ -1,14 +1,14 @@
 {
-  "main.css": "/potter-movie-forum/static/css/main.8c850806.chunk.css",
-  "main.js": "/potter-movie-forum/static/js/main.f3e5677a.chunk.js",
-  "main.js.map": "/potter-movie-forum/static/js/main.f3e5677a.chunk.js.map",
-  "static/js/1.ae6520e6.chunk.js": "/potter-movie-forum/static/js/1.ae6520e6.chunk.js",
-  "static/js/1.ae6520e6.chunk.js.map": "/potter-movie-forum/static/js/1.ae6520e6.chunk.js.map",
+  "main.css": "/potter-movie-forum/static/css/main.976fcc58.chunk.css",
+  "main.js": "/potter-movie-forum/static/js/main.189cae27.chunk.js",
+  "main.js.map": "/potter-movie-forum/static/js/main.189cae27.chunk.js.map",
+  "static/js/1.0852b203.chunk.js": "/potter-movie-forum/static/js/1.0852b203.chunk.js",
+  "static/js/1.0852b203.chunk.js.map": "/potter-movie-forum/static/js/1.0852b203.chunk.js.map",
   "runtime~main.js": "/potter-movie-forum/static/js/runtime~main.783f074c.js",
   "runtime~main.js.map": "/potter-movie-forum/static/js/runtime~main.783f074c.js.map",
   "static/media/ParryHotter.ttf": "/potter-movie-forum/static/media/ParryHotter.4834f12f.ttf",
-  "static/css/main.8c850806.chunk.css.map": "/potter-movie-forum/static/css/main.8c850806.chunk.css.map",
+  "static/css/main.976fcc58.chunk.css.map": "/potter-movie-forum/static/css/main.976fcc58.chunk.css.map",
   "index.html": "/potter-movie-forum/index.html",
-  "precache-manifest.58d9a3a221746c859707cb06d9c40306.js": "/potter-movie-forum/precache-manifest.58d9a3a221746c859707cb06d9c40306.js",
+  "precache-manifest.4c96c5c88fe152d26eade4358983654b.js": "/potter-movie-forum/precache-manifest.4c96c5c88fe152d26eade4358983654b.js",
   "service-worker.js": "/potter-movie-forum/service-worker.js"
 }
