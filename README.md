@@ -11,6 +11,10 @@ To get the front-end running, run the following in a new terminal:
     npm install
     npm start
 
+## Demo
+
+[Live Demo](https://grcheeseman.github.io/potter-movie-forum/)
+
 # About Potter Movie Forum
 
 The objective of this project is to create a React app that allows users to view the Harry Potter Movies. The home page is designed to show all of the movies by default or to be filter via the search function at the top of the app. The user can click on a card for a specific movie to go to a route for details on that movie.
