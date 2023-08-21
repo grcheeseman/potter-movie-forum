@@ -33,14 +33,17 @@ function MovieForum() {
       comment: e.target.comment.value,
     };
 
-    fetch("http://localhost:3001/forum", {
-      method: "POST",
-      headers: {
-        Accept: "application/json",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(newComment),
-    })
+    fetch(
+      "https://my-json-server.typicode.com/grcheeseman/potter-movie-forum/forum",
+      {
+        method: "POST",
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(newComment),
+      }
+    )
       .then((resp) => resp.json())
       .then((newComment) => setForums([newComment, ...forums]));
 

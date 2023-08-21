@@ -8,7 +8,7 @@ import "./fonts/ParryHotter.ttf";
 
 function Router() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/potter-movie-forum">
       <App />
     </BrowserRouter>
   );
