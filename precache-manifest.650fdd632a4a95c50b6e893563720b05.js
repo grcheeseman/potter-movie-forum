@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b7dc2f5c760c7dd785b0",
+    "revision": "be5aba7ecfce8420ab25",
     "url": "/potter-movie-forum/static/css/main.976fcc58.chunk.css"
   },
   {
-    "revision": "b7dc2f5c760c7dd785b0",
-    "url": "/potter-movie-forum/static/js/main.b7dc2f5c.chunk.js"
+    "revision": "be5aba7ecfce8420ab25",
+    "url": "/potter-movie-forum/static/js/main.be5aba7e.chunk.js"
   },
   {
     "revision": "0852b203f7f01d8383ad",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/potter-movie-forum/static/media/ParryHotter.4834f12f.ttf"
   },
   {
-    "revision": "93389066e4c0181cccc1d954236f005a",
+    "revision": "f74adb555f18c67bddbb7b7cae9f5add",
     "url": "/potter-movie-forum/index.html"
   }
 ];
