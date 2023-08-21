@@ -2,12 +2,12 @@
 
 This project is made using a JSON server. To get the server running, run the following in the terminal:
 
-    cd potter-movie-forum
     json-server --watch ./src/db.json -p 3001
+
+Or use [My JSON Server](https://my-json-server.typicode.com/grcheeseman/potter-movie-forum)
 
 To get the front-end running, run the following in a new terminal:
 
-    cd potter-movie-forum
     npm install
     npm start
 
