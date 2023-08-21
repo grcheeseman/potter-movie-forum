@@ -1,12 +1,13 @@
 # Potter Movie Forum React Website
+
 This project is made using a JSON server. To get the server running, run the following in the terminal:
 
-    cd my-app
+    cd potter-movie-forum
     json-server --watch ./src/db.json -p 3001
 
 To get the front-end running, run the following in a new terminal:
 
-    cd my-app
+    cd potter-movie-forum
     npm install
     npm start
 
@@ -19,6 +20,7 @@ The user can return to the home page via clicking the website title or the home 
 From the forum route the user can see comments left by other users. They can also leave their own forum comment by filling in the form and casting the Aparecium spell (submit button). Posts to the forum persist.
 
 # Technology Used
+
 In this project, we utilized HTML, ReactJS, JSON, and CSS.
 
 We used HTML to create the HTML website.
